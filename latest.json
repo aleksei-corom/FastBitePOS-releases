@@ -1,0 +1,11 @@
+{
+  "notes": "FastBite POS 1.3.3",
+  "pub_date": "2026-09-16T00:58:01Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR3d2FLMEdYTTlka09TSUs2STBSb2RieDd0K3FpSmxKelRuck5QWW15Tm1OaVBkd1VkMk93U1loT28zdXRFNlpsV3hIWWNKMGhTMW91ekg0TnpvYVRxRjg3bG4vMXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTIwMjgwCWZpbGU6RmFzdEJpdGUgUE9TXzEuMy4zX3g2NC1zZXR1cC5leGUKYTB1dVFQTDZodXdUbkdwTDR1WnJDWkZrQUsyU3FRVGlUbndjbEtnZXJiWGpEcS9teS9QN09JbzZtdGN6QjBselpMRGtQbTljbWVNOTFJbVNRemZ0QlE9PQo=",
+      "url": "https://raw.githubusercontent.com/aleksei-corom/FastBitePOS-releases/main/releases/FastBitePOS_setup_1.3.3.exe"
+    }
+  },
+  "version": "1.3.3"
+}
