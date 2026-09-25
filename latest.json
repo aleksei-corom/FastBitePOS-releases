@@ -1,11 +1,11 @@
 {
+  "pub_date": "2026-09-25T23:30:45Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/aleksei-corom/FastBitePOS-releases/main/releases/FastBitePOS_setup_1.6.5.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR3d2FLMEdYTTQyUldOVEFJY1BLcHgra0JmdXRMV1EvY25hMUZod0ZnYWp6YXhSejVFVHhNdzJ0eHZzdGsyOXNIWnIydW90c2RpSEVxWjBFbXBVQ2RKWlhZMS91cXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzYyODgyCWZpbGU6RmFzdEJpdGUgUE9TXzEuNi41X3g2NC1zZXR1cC5leGUKT251UDlycEYrMVJRcnVSRzJOQkpmRHNqU1YzdFhaNU9kS01nbElLRGJ6YXU5U2pBUkQ2ajZsTXAvRGlTbk5TSWpvaFo5dzhYdHhBUDQ3QlNxdVRZQ1E9PQo="
+      "url": "https://raw.githubusercontent.com/aleksei-corom/FastBitePOS-releases/main/releases/FastBitePOS_setup_1.6.6.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR3d2FLMEdYTXlPZUh1K3NsK0RwZWVsd0tkU21RRHNUdGdZc0ZJcnppeXBldDFTNnFPSUlaS0tTVWI4NkZEVlFvdzZydzlMUGJRdCtxWXBmcktQWmx6dUxEZEpwL2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzc5MDQzCWZpbGU6RmFzdEJpdGUgUE9TXzEuNi42X3g2NC1zZXR1cC5leGUKekRud2wrSXVWdnlOODJQUEJEeG40TVl5MldJd2RBcTNxM1V0dkJYV01mWS9nVFFwdU8rSlI2c2EwdnFRN1dVWFJRaVUrRjZaWlJ3QjdOVFRNTTlMQ0E9PQo="
     }
   },
-  "notes": "FastBite POS 1.6.5",
-  "version": "1.6.5",
-  "pub_date": "2026-09-25T19:01:24Z"
+  "notes": "FastBite POS 1.6.6 — correcciones y mejoras de fiabilidad",
+  "version": "1.6.6"
 }
